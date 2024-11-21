@@ -1,0 +1,58 @@
+From:gunjan.sharma@bridgelabz.com
+To:dprathamesh435@gmail.com
+Subject:Performance Feedback for Prathamesh Popat Deshpande
+
+Dear Prathamesh Popat Deshpande,
+
+Bridgelabz: Your performance for Week # Wk8 are as follows:
+
+Performance Status: Need Less Help, TRACK Score : 4.16
+
+Average Values so far are:
+
+Technical Ability: 1.41, Learnability: 1.72, Communicability: 0.90
+
+Remark:Technical Summary:
+Prathemesh focused on installing and configuring Spark this week. He went 
+through Spark architecture, RDD concepts, and executed the word count 
+example using PySpark. The address book project was started and will be 
+completed in the following week.
+
+Technical Feedback:
+Prathmesh shows strong command over Spark basics, such as RDDs, 
+transformations, and actions. He is also comfortable with PySpark 
+operations and has shown improvement in understanding data formats.
+
+Soft Skills:
+He is a disciplined learner and shows curiosity in learning new topics. His 
+communication is clear, and he is proactive in addressing challenges.
+
+
+Review Date:
+14-10-2024
+
+---END OF EMAIL---
+
+From: rajesh.mishra@example.com
+To: hr@company.com
+Subject: Leave Request for Personal Work
+
+Dear HR,
+I would like to request a leave for two days, from 12th October to 13th October, due to some personal work. I will ensure all pending tasks are completed before I go on leave. Please let me know if any further details are required.
+Thank you for your consideration.
+Best regards,
+Rajesh Mishra
+
+---END OF EMAIL---
+
+From: sunita.kumar@example.com
+To: manager@company.com
+Subject: Request for Work From Home on 15th October
+
+Dear Sir,
+I would like to request permission to work from home on 15th October due to a medical appointment. I will be available online during regular working hours and will complete my tasks as per schedule.
+Kind regards,
+Sunita Kumar
+
+---END OF EMAIL---
+
